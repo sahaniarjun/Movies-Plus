@@ -1,4 +1,4 @@
-# Theater-Ticket-booking-Application
+# Movies Plus (Microsoft Training)
 It is Similar To BookMyShow for Ticket Booking with Wallet and booked ticket generation.
 Its Fully Dynamic Application i.e. All images and Data's Are retrieved From Database and can be modified/updated through Admin Panel.  
 
